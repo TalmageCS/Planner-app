@@ -1,0 +1,1 @@
+A python app to help people manage their schedules.
